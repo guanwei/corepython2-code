@@ -31,4 +31,4 @@
 
 ### 通用集成开发环境列表
 
-    http://wiki.python.org/moin/IntegratedDevelopmentEnvironments
+    [http://wiki.python.org/moin/IntegratedDevelopmentEnvironments]
